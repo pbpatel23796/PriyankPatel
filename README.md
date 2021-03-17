@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Priyank Patel
 - 👀 I’m interested in Software Design and Development, Agile Methodology, and Machine Learning
 - 🌱 I’m currently learning Android Development
-- 💞️ I’m looking to collaborate on any kind of project which challenges my ability
+- 💞️ I’m looking to collaborate on any kind of project which challenges my intellectual and ability to solve problems
 - 📫 You can reach me at pbpatel23796@gmail.com
